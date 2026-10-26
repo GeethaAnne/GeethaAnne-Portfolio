@@ -55,6 +55,9 @@ https://aws.amazon.com/blogs/business-intelligence/visualize-confluent-data-in-a
 ### Observability of Confluent Platform on AWS EKS with DataDog
 https://www.confluent.io/blog/omonitoring-and-observability-kafka-clusters-on-kubernetes/
 
+### Why Your Data Platform Needs to Run Where Your Data Lives
+https://community.cloudera.com/developer-blogs-23/why-your-data-platform-needs-to-run-where-your-data-lives-120067
+
 ---
 
 # 🎓 Workshops
