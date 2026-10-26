@@ -30,7 +30,8 @@ I speak about distributed systems, data streaming, cloud infrastructure, observa
 - eBPF Summit  
 - Cloud Day Conference  
 - Budapest Data Forum  
-- Moar Serverless  
+- Moar Serverless
+- CNCF KCD Brazil 
 
 ---
 
